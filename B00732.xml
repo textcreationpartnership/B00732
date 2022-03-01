@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A song made of nothing. Yet he that doth read, or heare it shall find, something of nothing to pleasure his mind. To a dainty new tune.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1635</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B00732</idno>
+            <idno type="STC">STC 22921</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.20.f.7[372]</idno>
+            <idno type="EEBO-CITATION">99884425</idno>
+            <idno type="PROQUEST">ocm99884425</idno>
+            <idno type="VID">183113</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B00732)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 183113)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; A5:1[197])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A song made of nothing. Yet he that doth read, or heare it shall find, something of nothing to pleasure his mind. To a dainty new tune.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill.  </extent>
+               <publicationStmt>
+                  <publisher>For Iohn Wright,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>[ca. 1635]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Verse: "Some men of nothing doe matters endite ..."</note>
+                  <note>Publication date suggested by STC.</note>
+                  <note>In two parts, separated for mounting; woodcuts at head of each part.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ballads, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="ballad">
+            <pb facs="tcp:183113:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 16 -->
+            <head>A Song made of Nothing.</head>
+            <argument>
+               <l>Yet he that doth read, or heare it ſhall find,</l>
+               <l>Something of nothing to pleaſure his mind.</l>
+            </argument>
+            <opener>To a dainty New tune.</opener>
+            <div n="1" type="part">
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>SOme men of nothing doe matters endite.</l>
+                  <l>&amp; ſome men of ſmall things large volumes doe write,</l>
+                  <l>But if you will giue me leaue I will recite</l>
+                  <lg type="refrain">
+                     <l>A ſong made of nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that has nothing may ſooneſt ſpend all,</l>
+                  <l>And he thats exalted may haue a downe-fall,</l>
+                  <l>And he that is weakeſt may goe to the wall,</l>
+                  <lg type="refrain">
+                     <l>But I will ſay nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that preſumeth a Gallant to be,</l>
+                  <l>And ſpends more in one yeare then he gets in thrée,</l>
+                  <l>Shall beg hauing waſted his Patrimony,</l>
+                  <lg type="refrain">
+                     <l>But I will ſay nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that has nothing, no credit ſhall haue,</l>
+                  <l>Although he be vertuous, he's counted a knaue,</l>
+                  <l>Among roaring Gallants that goe fine and braue,</l>
+                  <lg type="refrain">
+                     <l>Cauſe he can ſpend nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that delights in Cards and in Dice,</l>
+                  <l>And ſpends his reuenues in ſuch idle vice,</l>
+                  <l>Shall méet with lewd company him to intice,</l>
+                  <lg type="refrain">
+                     <l>Till he be worth nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that hath nothing, with troubles beſet,</l>
+                  <l>Will ſteale or doe ſomething a liuing to get.</l>
+                  <l>But if he be caught in the hangmans net,</l>
+                  <lg type="refrain">
+                     <l>His life is worth nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that hath nothing, can nothing poſſeſſe,</l>
+                  <l>And he that hath little may looke to haue leſſe,</l>
+                  <l>But much want and ſorrow doth daily oppreſſe</l>
+                  <lg type="refrain">
+                     <l>the man that hath nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that will be a good husband indéed,</l>
+                  <l>That vnto his buſineſſe doth goe with good héed,</l>
+                  <l>Shall ſtill haue ſufficient to ſerue him at néed,</l>
+                  <lg type="refrain">
+                     <l>And alwayes want nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that is maried vnto a good wife,</l>
+                  <l>Shall liue in content all dayes of his life,</l>
+                  <l>But if man and woman be giuen to ſtrife,</l>
+                  <lg type="refrain">
+                     <l>They'll fall out for nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that is idle and will not take paines.</l>
+                  <l>But honeſt induſtry and labour diſdaines,</l>
+                  <l>When others true labours are quitted with gaines,</l>
+                  <lg type="refrain">
+                     <l>Then he ſhall haue nothing.</l>
+                  </lg>
+               </lg>
+            </div>
+            <div n="2" type="part">
+               <head>The ſecond part.</head>
+               <opener>To the ſame tune.</opener>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <p>
+                  <figure/>
+               </p>
+               <lg>
+                  <l>HE that in Drunkennes takes his delight.</l>
+                  <l>To drinke and to ſwagger, to brabble and fight</l>
+                  <l>He taketh the wrong, and leaueth the right,</l>
+                  <lg type="refrain">
+                     <l>But I wil ſay nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that in baſeneſſe his time doth here ſpend,</l>
+                  <l>That neuer regards himſelfe nor his friend,</l>
+                  <l>He ſtandeth in danger to haue a bad end,</l>
+                  <lg type="refrain">
+                     <l>But I wil ſay nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that takes pleaſure to curſe, ban and ſweare,</l>
+                  <l>With vaine execrations his Maker to teare,</l>
+                  <l>The Lord in his wrath, if he doe not forbeare,</l>
+                  <lg type="refrain">
+                     <l>wil bring him to nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that doth ruffle it out in vaine pride</l>
+                  <l>That weareth gay clothes a foule carcaſſe to hide,</l>
+                  <l>And beares more on's backe then he's worth beſide,</l>
+                  <lg type="refrain">
+                     <l>Ile truſt him for nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that delighteth to goe to the Law,</l>
+                  <l>To ſue for a trifle that's ſcarce worth a ſtraw,</l>
+                  <l>May ſue for a Woodcocke, and catch a Iack-Daw</l>
+                  <lg type="refrain">
+                     <l>For all comes to nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that his time ſtil careleſly ſpends,</l>
+                  <l>And hopes to be rich by the death of his friends,</l>
+                  <l>The piller whereon all his hope ſtill depends,</l>
+                  <lg type="refrain">
+                     <l>Perhaps comes to nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that deferreth amendment to'th laſt,</l>
+                  <l>And ſéekes not to thriue till al remedie's paſt,</l>
+                  <l>If he through his folly behind hand be caſt,</l>
+                  <lg type="refrain">
+                     <l>His hopes are worth nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that liues vprightly in his vocation,</l>
+                  <l>And on the diſtreſſed hath commiſeration,</l>
+                  <l>That man rightly merits a good commendation</l>
+                  <lg type="refrain">
+                     <l>He's guilty in nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that with vſury doth money beget,</l>
+                  <l>And loues that young ſpend-thrifts ſhould be in his debt</l>
+                  <l>The Deuill at laſt wil drag him in's net</l>
+                  <lg type="refrain">
+                     <l>But I wil ſay nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that can craftily cozen and cheat,</l>
+                  <l>To get a baſe liuing by fraud and deceit,</l>
+                  <l>Shal ſtand on the Pillory to coole his heate,</l>
+                  <lg type="refrain">
+                     <l>But I wil ſay nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>He that is often enclined to quarrell,</l>
+                  <l>Wil bring both himſelfe &amp; his friend in great perill</l>
+                  <l>But that man is bleſt that can wiſely forbeare ill,</l>
+                  <lg type="refrain">
+                     <l>And learne to ſay nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>Here you ſée ſomething of nothing is made.</l>
+                  <l>For of the word nothing, ſomething is ſaid,</l>
+                  <l>That man who hath neither wealth, wit, not trade,</l>
+                  <lg type="refrain">
+                     <l>Alas he gets nothing.</l>
+                  </lg>
+               </lg>
+               <lg>
+                  <l>So frée me being tedious, I now wil refraine,</l>
+                  <l>And pray for King <hi>Charles</hi> that long he many raigne:</l>
+                  <l>His foes and all traytors that wiſh Englands bane.</l>
+                  <lg type="refrain">
+                     <l>Good Lord bring to nothing</l>
+                  </lg>
+               </lg>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Printed at London for Iohn Wright.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
